@@ -1,0 +1,14 @@
+title: PC Duck Flare
+originalAuthor: Shananas
+description: Gives Emulator PC Duck Flare
+assets:
+
+#limit
+- name: limit/fm/donald2.bar
+  method: copy
+  source:
+  - name: limit/fm/donald2.bar
+- name: limit/fm/donald2_wi.bar
+  method: copy
+  source:
+  - name: limit/fm/donald2_wi.bar
